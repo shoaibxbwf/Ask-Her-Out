@@ -5,8 +5,8 @@ This project is just for laughs — a cute prank to tease your friends or crush!
 If they finally click **"YES"**, your phone number appears so they can call you and (maybe!) go on a date. 📞❤️
 
 ## (Screenshots)
-![First](ask1.png)
-![Second](ask2.png)
+![First](first.png)
+![Second](second.png)
 
 ## 🗂️ Repository Contents
 - `index.html` — Main prank webpage with the moving NO button.
