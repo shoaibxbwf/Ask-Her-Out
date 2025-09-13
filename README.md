@@ -19,7 +19,7 @@ This project is just for laughs — a cute prank to tease your friends or crush!
 ## ⚠️ Disclaimer
 This is a **fun prank** project. Please use it responsibly and with good intentions.
 
-## MADE AND OWNED BT
+## MADE AND OWNED BY
 - MD AMIR SHOAIB
 - Please Support On Github & Give A Like If you found it useful!!
 - Do Check My Other Repo's
